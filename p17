@@ -1,4 +1,4 @@
-// Write a program in c to find te area of a triangle using call by reference in function.
+// Write a program in c to find the area of a triangle using call by reference in function.
 #include<stdio.h>
 int area(int *b,int *h)
 {
