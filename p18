@@ -1,0 +1,7 @@
+//Write a c program to print elements of an array individual.
+#include <stdio.h>
+int main() 
+{
+    int numbers[5]={1,2,3,4,5};
+    printf("%d",numbers[4]);
+}
