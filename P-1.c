@@ -1,5 +1,5 @@
 //Write a program in c to print the following pattern
-A
+/A
 AB
 ABC
 ABCD
