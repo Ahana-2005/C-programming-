@@ -16,6 +16,6 @@ int main()
 int r;
 printf("Enter range: ");
 scanf("%d", &r);
-int a=fib(r);
-printf("The fibonacci series is: %d\n",a);
+printf("The fibonacci series is: %d\n");
+fib(r);
 }
